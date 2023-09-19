@@ -1,5 +1,9 @@
 # BonoParcial
 ### Elaborado por: Jose Ricardo Olarte Pardo
+
+### Comando para ejecutar el proyecto desde windows: 
+###  java -cp "target/classes;target/dependency/*" co.edu.escuelaing.sparkdockerdemolive.Spar
+kWebServer
 # _______________________________
 
 ## Para utilizar el proyecto
