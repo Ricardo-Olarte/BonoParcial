@@ -6,4 +6,4 @@
 
 ### Visualización
 
-[](https://github.com/Ricardo-Olarte/BonoParcial/blob/main/images/Screenshot%202023-09-19%20155942.png)
+[img](https://github.com/Ricardo-Olarte/BonoParcial/blob/main/images/Screenshot%202023-09-19%20155942.png)
