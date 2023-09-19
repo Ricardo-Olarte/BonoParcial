@@ -21,7 +21,7 @@
 ## Magnitud
 ![](https://github.com/Ricardo-Olarte/BonoParcial/blob/main/images/Screenshot%202023-09-19%20160048.png)
 
-#_______________________________
+# _______________________________
 
 ## Docker
 ![](https://github.com/Ricardo-Olarte/BonoParcial/blob/main/images/Screenshot%202023-09-19%20160105.png)
